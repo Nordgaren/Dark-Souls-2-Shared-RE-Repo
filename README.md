@@ -1,3 +1,3 @@
-## Dark Souls 2 Shared RE Repo
+# Dark Souls 2 Shared RE Repo
 
-# Under Construction
+## Under Construction
